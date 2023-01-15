@@ -1,10 +1,40 @@
 {
 	"name": "Artivain",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#212529",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#81d742",
+		"sideBarTitle.foreground": "#81d742",
+		"activityBar.background": "#06476d",
+		"activityBar.foreground": "#ffffff",
+		"activityBarBadge.foreground": "#fff",
+		"activityBar.border": "#06476d",
+		"activityBar.activeBackground": "#063d5e",
+		"statusBar.background": "#06476d",
+		"statusBar.noFolderBackground": "#06476d",
+		"titleBar.activeBackground": "#06476d",
+		"statusBarItem.activeBackground": "#81d742",
+		"statusBarItem.hoverBackground": "#063d5e",
+		"sideBar.background": "#161616",
+
+		"icon.foreground": "#81d742",
+
+		"scrollbarSlider.background": "#06476d",
+		"scrollbarSlider.hoverBackground": "#063d5e",
+		"scrollbarSlider.activeBackground": "#81d742",
+
+		"editorGroupHeader.noTabsBackground": "#161616",
+		"editorGroupHeader.tabsBackground": "#161616",
+		"tab.inactiveBackground": "#161616",
+
+		"menu.background": "#161616",
+		"panel.background": "#161616",
+		"terminal.ansiGreen": "#81d742",
+		"terminal.ansiBlue": "#06476d",
+
+		"button.background": "#06476d",
+		"textLink.foreground": "#81d742",
+		"textLink.activeForeground": "#70ba3a"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +45,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#648391"
 			}
 		},
 		{
@@ -25,7 +55,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffaa3a"
 			}
 		},
 		{
@@ -44,7 +74,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff2f2f"
 			}
 		},
 		{
@@ -75,7 +105,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#6aadd3"
 			}
 		},
 		{
@@ -86,7 +116,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffaa3a"
 			}
 		},
 		{
@@ -149,7 +179,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#81d742"
 			}
 		},
 		{
@@ -238,7 +268,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#dfafff"
 			}
 		},
 		{
