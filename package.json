@@ -1,21 +1,23 @@
 {
-  "name": "artivain-theme",
-  "displayName": "artivain-theme",
-  "description": "Artivain color theme for Visual Studio Code",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Artivain",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Artivain-color-theme.json"
-      }
-    ]
-  }
+	"publisher": "Artivain",
+	"name": "artivain-theme",
+	"displayName": "Artivain Theme",
+	"description": "Artivain color theme for Visual Studio Code",
+	"repository": "https://github.com/GoudronViande24/vscode-theme",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Artivain",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Artivain-color-theme.json"
+			}
+		]
+	}
 }
